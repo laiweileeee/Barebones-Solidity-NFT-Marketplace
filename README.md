@@ -13,4 +13,3 @@ npx hardhat node
 node scripts/deploy.js
 npx hardhat help
 ```
-# Barebones-Solidity-NFT-Marketplace
